@@ -112,7 +112,7 @@ lib/
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ddheeraj8090/quickquest
 cd quickquest
 ```
 
@@ -229,4 +229,4 @@ For issues and questions, please create an issue in the repository.
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: 2024
+**Last Updated**: 2026
