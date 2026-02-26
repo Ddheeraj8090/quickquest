@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587999140051",
+    "project_id": "quickquest-9ec06",
+    "storage_bucket": "quickquest-9ec06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587999140051:android:0d0e3b51ae7708bcdddc26",
+        "android_client_info": {
+          "package_name": "com.quickquest.app.quickquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQlf9um_wHgqbFXnp5iDTc_g_aZ82A6ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
